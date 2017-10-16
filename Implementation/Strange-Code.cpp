@@ -1,10 +1,10 @@
 /*
 # -*- coding: utf-8 -*-
-"""
+'''
 Created on Tue Oct 17 00:16:22 2017
 
 @author: MetaMemeLord-
-"""
+'''
 */
 
 #include<iostream>
